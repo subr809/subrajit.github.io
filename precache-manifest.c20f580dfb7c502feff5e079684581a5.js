@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "5c4289553796f904358d",
+    "revision": "382e854a1857a2f5c542",
     "url": "/subrajit.github.io/static/css/main.c142de2e.chunk.css"
   },
   {
-    "revision": "5c4289553796f904358d",
-    "url": "/subrajit.github.io/static/js/main.5c428955.chunk.js"
+    "revision": "382e854a1857a2f5c542",
+    "url": "/subrajit.github.io/static/js/main.382e854a.chunk.js"
   },
   {
     "revision": "2d281c672a566deb1a05",
@@ -96,7 +96,7 @@ self.__precacheManifest = [
     "url": "/subrajit.github.io/static/media/nths.198c295c.png"
   },
   {
-    "revision": "8f4e18307ef66b945ef8dbbfff6d37d5",
+    "revision": "848e5115c4dcb63d05c75e8901aba802",
     "url": "/subrajit.github.io/index.html"
   }
 ];
