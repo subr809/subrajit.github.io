@@ -1,12 +1,12 @@
 {
   "main.css": "/subrajit.github.io/static/css/main.c142de2e.chunk.css",
-  "main.js": "/subrajit.github.io/static/js/main.3cfb2d1e.chunk.js",
-  "main.js.map": "/subrajit.github.io/static/js/main.3cfb2d1e.chunk.js.map",
+  "main.js": "/subrajit.github.io/static/js/main.5c428955.chunk.js",
+  "main.js.map": "/subrajit.github.io/static/js/main.5c428955.chunk.js.map",
   "static/js/1.2d281c67.chunk.js": "/subrajit.github.io/static/js/1.2d281c67.chunk.js",
   "static/js/1.2d281c67.chunk.js.map": "/subrajit.github.io/static/js/1.2d281c67.chunk.js.map",
   "static/css/2.77def66b.chunk.css": "/subrajit.github.io/static/css/2.77def66b.chunk.css",
-  "static/js/2.8f7b4c2d.chunk.js": "/subrajit.github.io/static/js/2.8f7b4c2d.chunk.js",
-  "static/js/2.8f7b4c2d.chunk.js.map": "/subrajit.github.io/static/js/2.8f7b4c2d.chunk.js.map",
+  "static/js/2.2c8b92f0.chunk.js": "/subrajit.github.io/static/js/2.2c8b92f0.chunk.js",
+  "static/js/2.2c8b92f0.chunk.js.map": "/subrajit.github.io/static/js/2.2c8b92f0.chunk.js.map",
   "runtime~main.js": "/subrajit.github.io/static/js/runtime~main.345bf700.js",
   "runtime~main.js.map": "/subrajit.github.io/static/js/runtime~main.345bf700.js.map",
   "static/media/light-mode.jpg": "/subrajit.github.io/static/media/light-mode.30404b0d.jpg",
@@ -30,6 +30,6 @@
   "static/css/main.c142de2e.chunk.css.map": "/subrajit.github.io/static/css/main.c142de2e.chunk.css.map",
   "static/css/2.77def66b.chunk.css.map": "/subrajit.github.io/static/css/2.77def66b.chunk.css.map",
   "index.html": "/subrajit.github.io/index.html",
-  "precache-manifest.20979b50bbbdd0e6d02f67d18d8a7e6f.js": "/subrajit.github.io/precache-manifest.20979b50bbbdd0e6d02f67d18d8a7e6f.js",
+  "precache-manifest.e24b3e2d3248069d25a0e7c3488db4b6.js": "/subrajit.github.io/precache-manifest.e24b3e2d3248069d25a0e7c3488db4b6.js",
   "service-worker.js": "/subrajit.github.io/service-worker.js"
 }
