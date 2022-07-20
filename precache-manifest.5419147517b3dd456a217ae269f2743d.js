@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "9c19d353b0f8de2930b4",
+    "revision": "7240eb47a3348e403be2",
     "url": "/subrajit.github.io/static/css/main.e61f5b33.chunk.css"
   },
   {
-    "revision": "9c19d353b0f8de2930b4",
-    "url": "/subrajit.github.io/static/js/main.9c19d353.chunk.js"
+    "revision": "7240eb47a3348e403be2",
+    "url": "/subrajit.github.io/static/js/main.7240eb47.chunk.js"
   },
   {
     "revision": "4e9aafb99959cf9fe670",
@@ -32,8 +32,8 @@ self.__precacheManifest = [
     "url": "/subrajit.github.io/static/media/dark-mode.73e71a97.jpg"
   },
   {
-    "revision": "a94aeef7ec0288f77ff05a6e954cec1f",
-    "url": "/subrajit.github.io/static/media/Resume.a94aeef7.pdf"
+    "revision": "ecdea9e98868fb8a13e260cccc66d061",
+    "url": "/subrajit.github.io/static/media/Subrajit-Surendran's-Resume.ecdea9e9.pdf"
   },
   {
     "revision": "19dfc19b5daca8e444606ee8eb11f9c7",
@@ -96,7 +96,7 @@ self.__precacheManifest = [
     "url": "/subrajit.github.io/static/media/nths.198c295c.png"
   },
   {
-    "revision": "a1c05041d201e36ccc3d59a97aeae2ad",
+    "revision": "b045e345dc7ce135e64068bfeb8b8ed3",
     "url": "/subrajit.github.io/index.html"
   }
 ];
