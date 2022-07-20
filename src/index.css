@@ -1,0 +1,14 @@
+html, body {
+    background: var(--background) !important;
+    z-index: 1;
+    --bs-gutter-x: 0;
+}
+
+:root {
+    --background: white !important;
+    --text-primary: black !important;
+  }
+  [data-theme='dark'] {
+    --background: black !important;
+    --text-primary: white !important;
+  }

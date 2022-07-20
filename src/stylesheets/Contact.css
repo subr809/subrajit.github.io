@@ -1,0 +1,59 @@
+.ContactPage {
+    padding-top: 160px;
+}
+
+.ContactPage h2 {
+    width: 100%;
+    font-family: 'Roboto';
+    font-weight: 200;
+    font-size: 50px;
+    text-align: center;
+    position: relative;
+}
+
+#contact-card {
+    width: 100%;
+    max-width: 800px;
+    margin: auto;
+    padding-top: 2vh;
+}
+
+textarea {
+    width: 100% !important;
+}
+input {
+    width: 100% !important;
+}
+
+.form-contact {
+    max-width: 500px;
+    margin: auto;
+}
+
+.form {
+    width: 60%;
+}
+
+#row-contact label{
+    text-align: center;
+    color: black;
+}
+
+#row-contact input{
+    width: 50%;
+    margin: auto;
+}
+
+#row-contact textarea{
+    width: 60%;
+    overflow-y: scroll;
+    margin: auto;
+    resize: none;
+}
+
+#contact-button {
+    width: 50%;
+    background: var(--background) !important;
+    color: var(--text-primary) !important;
+    margin: auto;
+}

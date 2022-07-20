@@ -1,0 +1,134 @@
+.App {
+  color: var(--text-primary);
+  background-color: var(--background);
+  font-size: large;
+  font-weight: bold;
+  background-clip: content-box;
+  height: 100%;
+  width: 100%;
+}
+
+.navbar-toggler button {
+  float: right;
+}
+#mode button {
+  float: right;
+}
+
+button {
+  color: var(--text-primary);
+  background-color: var(--background) !important;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.py-4 {
+  padding-left: 1.5rem !important;
+  padding-right: 1.5rem !important;
+}
+
+.navbar {
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 2.4vh;
+  background: var(--background);
+  text-decoration: none;
+  width: 100%;
+  position: sticky;
+  top: 0;
+  padding: 0;
+  border-bottom: 1px solid var(--text-primary);
+}
+
+.navbar-collapse {
+  justify-content: right;
+  text-decoration: none;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: var(--text-primary) !important;
+  transition: none !important;
+  text-align: center;
+}
+
+.nav-link:hover {
+  color: var(--text-primary);
+  transition: all .1s ease-in !important;
+  transform: scale(1.1);
+  opacity: 60%;
+}
+
+img {
+  transition: none;
+}
+
+#logo-image {
+  display: inline-block;
+}
+
+.bi:hover {
+  opacity: 60%;
+}
+
+.resume {
+  border-color: var(--text-primary);
+  border-style: groove;
+  transform: none !important;
+}
+
+#mode {
+  border-style: none;
+}
+nav {
+  position: absolute !important;
+  z-index: 9999;
+  width: 100%;
+}
+
+#row1 {
+  width: 100%;
+  margin: 0 !important;
+  position: sticky;
+  top: 0;
+  z-index: 12;
+  background: var(--background);
+}
+
+.container-fluid {
+  padding: 0 !important;
+  margin: 0 !important;
+  display: inline-block !important;
+}
+
+.button {
+  padding: 0;
+  border-style: none;
+}
